@@ -1,0 +1,38 @@
+/*
+TPNG: AJJ    Roster: Aiden Chao, Jerry Zhou, ZhiXuan Liu
+IntoCS pd5 sec8
+HW05 -- Stuylin'
+2021-02-xx
+*/
+
+body {
+  background-color: #2b2b2b;
+}
+h1 {
+  color: #F92672;
+  font-family: sans-serif;
+}
+h2 {
+  color: #F92672;
+  font-family: sans-serif;
+}
+h3 {
+  color: FloralWhite;
+  font-family: sans-serif;
+}
+h4 {
+  color: #A6E22E;
+  font-family: sans-serif;
+}
+p {
+  color: FloralWhite;
+  font-family: serif;
+}
+li {
+  color: #66D9EF;
+  font-family: serif;
+}
+a {
+  color: #AE81FF;
+  font-family: serif;
+}
